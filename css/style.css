@@ -1,0 +1,28 @@
+body {
+  margin: 5%;
+}
+main {
+  padding: 5%;
+}
+ul {
+  padding-left: 0;
+}
+.logo {
+  border-bottom: 1px solid;
+  margin: 0;
+  background-color: #000;
+  color: #FFF;
+}
+.logo-img {
+  padding: 0;
+}
+.container-fluid {
+  background-color: #EEE;
+  border: 1px solid;
+  border-radius: 2%;
+  padding: 0;
+  overflow: hidden;
+}
+.media-listing {
+  margin: 3%;
+}
