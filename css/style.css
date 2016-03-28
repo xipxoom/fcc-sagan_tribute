@@ -27,6 +27,9 @@ blockquote {
 blockquote cite {
   font-style: normal;
 }
+li span {
+  font-style: italic;
+}
 img {
   border-radius: 2%;
 }
