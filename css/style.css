@@ -56,6 +56,9 @@ img {
 .h300 {
   height: 300px;
 }
-.summary {
+.achievements {
   margin: 5% 0;
+}
+.bookTitle {
+  text-decoration: underline;
 }
